@@ -1,0 +1,20 @@
+# Node modules
+/frontend/node_modules
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build output
+/frontend/.next
+/frontend/out
+
+# misc
+venv/
+*.xlsx
